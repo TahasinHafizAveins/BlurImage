@@ -1,0 +1,15 @@
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+        
+    }
+}
+
+
+
+
+
+
+implementation 'com.github.jgabrielfreitas:BlurImageView:1.0.1'
